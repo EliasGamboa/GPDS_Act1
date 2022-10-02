@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA3cgXxmjEQEe6Wa+pu+vlGgAAAAACAAAAAAAQZgAAAAEAACAAAADw0I69G+OfVKX2sqg0ZN/tw5vY46YbZHeI0vxYd7Hl0gAAAAAOgAAAAAIAACAAAAB/VK6on1n0DvFT95QAinW8f1IgJA+b1OQz5t5G72heA4AAAAAsg8xMG9KZ64ABp3OzUHJczeYBtmXzkLkIATl8KB5jjgr/s7BZ6lkLCRbN2Tx84QYf6aSDpmAHN52qV+i6f9R+3Qjnog30uULvMRdFW+vszkq0dIgsrXgI6LpuSNzyWPO+ksdVohACHa4Ou+YReM4gr5w33LIQ8lMhQ2m6c8g7j0AAAADaqfYzpBBW4ZvlriMJh3RnaZrPfJzz6k6O0p/UV5BkMN3i1FS9WCfoaT+KpwqZg4eIWb5wcZdiZmz/yFxrT2Zn</EncryptedPassword>
+    <History>True|2022-07-27T00:25:12.7790193Z;True|2022-07-26T19:22:54.9618338-05:00;True|2022-07-26T19:10:00.3553426-05:00;True|2022-07-26T17:54:26.7115393-05:00;True|2022-07-26T17:43:53.2926213-05:00;True|2022-07-26T17:15:56.3367726-05:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="EmpleadoBDConex">
+      <Value>Data Source=tcp:dwirhe.database.windows.net,1433%3bInitial Catalog=dwirhe%3bUser Id=Soldier2790%40dwirhe%3bPassword=LenovoSQL2022</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

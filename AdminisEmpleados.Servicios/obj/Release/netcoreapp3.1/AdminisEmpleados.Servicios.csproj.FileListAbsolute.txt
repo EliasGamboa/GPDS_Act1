@@ -1,0 +1,13 @@
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\bin\Release\netcoreapp3.1\AdminisEmpleados.Servicios.deps.json
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\bin\Release\netcoreapp3.1\AdminisEmpleados.Servicios.dll
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\bin\Release\netcoreapp3.1\AdminisEmpleados.Servicios.pdb
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\bin\Release\netcoreapp3.1\AdminisEmpleados.Modelos.dll
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\bin\Release\netcoreapp3.1\AdminisEmpleados.Modelos.pdb
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\obj\Release\netcoreapp3.1\AdminisEmpleados.Servicios.csproj.AssemblyReference.cache
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\obj\Release\netcoreapp3.1\AdminisEmpleados.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\obj\Release\netcoreapp3.1\AdminisEmpleados.Servicios.AssemblyInfoInputs.cache
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\obj\Release\netcoreapp3.1\AdminisEmpleados.Servicios.AssemblyInfo.cs
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\obj\Release\netcoreapp3.1\AdminisEmpleados.Servicios.csproj.CoreCompileInputs.cache
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\obj\Release\netcoreapp3.1\AdminisEmpleados.Servicios.csproj.CopyComplete
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\obj\Release\netcoreapp3.1\AdminisEmpleados.Servicios.dll
+P:\DWI-Proyect-Cont\AdminisEmpleados.Servicios\obj\Release\netcoreapp3.1\AdminisEmpleados.Servicios.pdb

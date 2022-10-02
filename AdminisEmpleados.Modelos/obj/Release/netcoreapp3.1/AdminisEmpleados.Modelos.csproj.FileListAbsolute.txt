@@ -1,0 +1,10 @@
+P:\DWI-Proyect-Cont\AdminisEmpleados.Modelos\bin\Release\netcoreapp3.1\AdminisEmpleados.Modelos.deps.json
+P:\DWI-Proyect-Cont\AdminisEmpleados.Modelos\bin\Release\netcoreapp3.1\AdminisEmpleados.Modelos.dll
+P:\DWI-Proyect-Cont\AdminisEmpleados.Modelos\bin\Release\netcoreapp3.1\AdminisEmpleados.Modelos.pdb
+P:\DWI-Proyect-Cont\AdminisEmpleados.Modelos\obj\Release\netcoreapp3.1\AdminisEmpleados.Modelos.csproj.AssemblyReference.cache
+P:\DWI-Proyect-Cont\AdminisEmpleados.Modelos\obj\Release\netcoreapp3.1\AdminisEmpleados.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+P:\DWI-Proyect-Cont\AdminisEmpleados.Modelos\obj\Release\netcoreapp3.1\AdminisEmpleados.Modelos.AssemblyInfoInputs.cache
+P:\DWI-Proyect-Cont\AdminisEmpleados.Modelos\obj\Release\netcoreapp3.1\AdminisEmpleados.Modelos.AssemblyInfo.cs
+P:\DWI-Proyect-Cont\AdminisEmpleados.Modelos\obj\Release\netcoreapp3.1\AdminisEmpleados.Modelos.csproj.CoreCompileInputs.cache
+P:\DWI-Proyect-Cont\AdminisEmpleados.Modelos\obj\Release\netcoreapp3.1\AdminisEmpleados.Modelos.dll
+P:\DWI-Proyect-Cont\AdminisEmpleados.Modelos\obj\Release\netcoreapp3.1\AdminisEmpleados.Modelos.pdb
